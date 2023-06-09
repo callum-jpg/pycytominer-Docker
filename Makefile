@@ -1,5 +1,5 @@
-user = cellprofiler
-org = cellprofiler
+user = ctromanscoia
+org = ctromanscoia
 project = pycytominer
 tag = latest
 version = master
