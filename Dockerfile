@@ -12,7 +12,7 @@ RUN mkdir /workspace/software
 
 WORKDIR /workspace/software
 
-RUN git clone https://github.com/cytomining/pycytominer.git
+RUN git clone https://github.com/callum-jpg/pycytominer
 
 WORKDIR /workspace/software/pycytominer
 
